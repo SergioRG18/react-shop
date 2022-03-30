@@ -1,0 +1,9 @@
+{
+    "presets": [
+        "@babel/preset-env", // Compila es5, es6 y js moderno
+        "@babel/preset-react" // Trabaja jsx y toda la sintaxis que esta en la libreria
+    ],
+    "plugins": [
+        "@babel/plugin-transform-runtime"
+    ]
+}
