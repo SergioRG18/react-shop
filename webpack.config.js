@@ -10,7 +10,6 @@ module.exports = {
         filename: 'bunle.js', 
         publicPath: '/'
     },
-    // Estos son los path donde se almacenan los codigos fuente
     mode: 'development',
     resolve: { 
         extensions: ['.js', 'jsx'],
